@@ -1,0 +1,9 @@
+{
+  "name": "ai-effort-planner",
+  "version": "1.0.0",
+  "description": "Estimates AI effort for development projects and sets up autonomous daily execution",
+  "author": "ndf",
+  "skills": [
+    "skills/ai-effort-planner"
+  ]
+}
